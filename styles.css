@@ -1,0 +1,21 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    width: 360px;
+    height: 1393px;
+    background-color: black;
+}
+
+img {
+    max-width: 100%;
+    position: absolute;
+}
+
+.knopka {
+    position: absolute;
+    width: 320px;
+    height: 70px;
+    top: 510px;
+    left: 22px;
+    opacity: 0;
+}

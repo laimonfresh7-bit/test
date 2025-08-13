@@ -1,0 +1,22 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    width: 360px;
+    height: 1393px;
+    background-color: black;
+}
+
+img {
+    max-width: 100%;
+    position: absolute;
+}
+
+.knopka {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    top: 20px;
+    left: 6px;
+    opacity: 0;
+    border: 1px solid white;
+}
